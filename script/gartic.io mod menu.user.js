@@ -547,7 +547,7 @@ $('.content').on('click', '.ic-okeys', function() {  $('#popUp').css({"display":
  }
 
  function loadwoldlist() { // tr: burası github sayfamdan kelime listesini yüklediğimiz yer eski sürümlerde buradan yüklemiyorduk // en: this is where we loaded the wordlist from my github page we didn't load it from here in older versions
-     let listtext = "https://raw.githubusercontent.com/bluelaned/Gartic.io-Cheats/master/world_list/en.json";
+     let listtext = "https://raw.githubusercontent.com/bluelaned/Gartic.io-Cheats/master/world_list/id.json";
      if (lang==999){
      if(customurl){
           $.getJSON(customurl, function(data) {
