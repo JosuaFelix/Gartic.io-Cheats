@@ -119,4 +119,4 @@ Press <kbd>CTRL</kbd>**+**<kbd>M</kbd> to open the menu.
 
 -----------------------
 ## Disclaimer 
-shoutout to  : Anonimbiri
+shoutout to  : [Anonimbiri](	https://github.com/anonimbiri)
