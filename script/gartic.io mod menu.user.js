@@ -5,8 +5,8 @@
 // @name:ar      قائمة تعديل gartic.io
 // @name:id      gartic.io mod menu
 // @version      1.0
-// @homepageURL  https://github.com/anonimbiri/gartic.io-hack
-// @supportURL   https://github.com/anonimbiri/gartic.io-hack/issues
+// @homepageURL  https://github.com/bluelaned/Gartic.io-Cheats
+// @supportURL   https://github.com/bluelaned/Gartic.io-Cheats/issues
 // @description    drawing bot (beta), answer assistant and many more features
 // @description:tr çizim botu (beta), cevap yardımcısı ve daha birçok özellik
 // @description:az rəsm bot (beta), cavab köməkçisi və bir çox digər xüsusiyyətlər
@@ -55,7 +55,7 @@ setTimeout(function() {
     loop();
     menuns();
      console.log("ooooooooooooooooooolcclloooooooooooooooooooooolcc::::clooooooooooooooooooolc:::::ccloooooooooooooooo\nooooooooooooooooolllooooooooodoooooooooooooolc:::ccclooooooooooooooooooooc:::::ccloooooooooooooooool\nooooooooooooooooooooooooooooooooooooooooolcc::ccloooooooooooooooooooooolc::::cloooooooooooooooooolc:\nloooooooooooooooooodooooooooooooooooooolc:::cllooodoooooooooooooooooolc:::cclooodoooooooooooooolc:::\noooooooooooooooooooooooooooooooooooollc::cclooooooooooooooooooooooolc:::clooooooooooooooooooolc:::::\noooooooooooooooooooooooooooooooooolcc:ccloooooodddddddddddddddddolc::cclooooooooooooooooooolcc::::::\noooooooooooooooooooooooooooooooolc:ccloddxkO00KKXXXXXNNNNNXXXXXK0OOkkkxxddooooooooooooooolcc::::::::\nooooooooooooooooooooooooooooollcccloxO0XNWWMMMWNNNXXXXKKKXXXXNNWWWMMMWWNXK0kxdoodoooooolcc::::::::::\nooooooooooooooooooooooooooolcccldk0XNWMWX0kdol:;;,,'''''''',;;:cclodxk0XWMMWNKOxdooooocc:::::::::cll\nooooooooooodooooooooooooolllldOKNWMWXOd:,.............................,:oxkKWMWN0kdlcc::::::::cclooo\nooooooooooooooooodooooolllokKNWMN0xl;............'',;;;::::::;,'........';:ldkXMMN0oc::::::ccloooooo\nooooollloooooooooooooooodOXWMN0xl:'.......',:lodxkOOOOO0000OOOOkkxdol:,'...,:clkNMWKdc:::clloooooooo\nollccloooooooooodooooodOXWMNOoc;'.....';cdkO00KK000000000000000000O00OOkoc'..'cclKMMXxcclooooooooooo\nc:cloooooooooooooooodkKWMNOol:,....':okO0KKKKKK0000000000000000000000O000Okl'..cclKMMKxooooooooooooo\nclooooooooooooooooodONMW0ool;....,lx0KKKKKK00O00000000000000000000000000000Oo'.,l:xWMWOdoooooooooooo\noooooooooooooooooox0WMNkodc....,lk00000000000O0000O00O0000000000000O00000000k;.'ocdWMWOdoooooooooooo\noooooooooooooooooxKWMXdod;....ckOO0000000OO0000OOkxxxxxxdxxxkO000000000O00O0O:.'cl0MMNkooooooooooooo\nooooooooooooooooxKWMXddd,...,oO00O000000000Okxxxdddollc;;;;;;;;;:cldkO00000Oo'.'ckWMW0dooooooooooool\noooooooooooooood0WMXddx,...;x000000000000OOkxoc:;::ccllooolcc:,'.....,:cllc;...c0WMW0xoooodoooooolcc\noooooooooooooookNMNxdk;...;k000000000KKK0Odc,';lkKXNWMMMMMMMWWNK0xo:'......';lkNMMNOddooooooooolcc::\noooooooooooolloKMMOdOl...,x000000KKKKKOko;..;xXWMMMMMMWNXKK0000KKXNXX0OkkO0XNWMWN0kdooooooooolc:::cc\noooooooollccclkNMNxkx'..'dO00KKKKK00Oxo;...oXMMMNKOkoc:,'.......'',:codkKNXKNMMW0xooooooooolc::ccloo\nooooolccccclod0WM0xOl...cO00KK00000Okc'...dNMWKd:......,;;::::;;;,,,....':lox0WMWKxoooooolcccclooooo\nollcc::clloooxXMWkxO;..'d00000K0000Ol....oNMWk;..';;coxkOOOOOOOkkxxdoc:,...,cokNMWXxdoolcclloooooooo\nc::::clooooookXMWkxx...;kKKKKK00000d'...:KMWk'..'cldO00000000000000OOkxdc'...;cxNMWKxllllooooooooooo\n:::clooooooookNMWkxo...c0KK00000000o....dWMNl...;dxO00000000000O0000000Okd:...':xWMWOooooooooooooooo\ncclooooooodooxXMWkxl...;k000000000Ol....xWMXc...;lldO0O0000000000O0000OO00kc'...:0MMNkoooooooooooooo\nlooooooooooooxKMMOdc...,x0O00000000d'...cXMWk,...,;:ldkOOO0OOOOkkOO00000000Oo....dWMW0dooooooooooooo\noooooooooooood0WMKd:....lO000000OO0k:....oXMW0c.......,;::::;;,''ck000000000O:...cXMMKdooooooooooooo\nooooooooooooodkNMNx:....,x0O0000O000x;....:ONMW0dc:;.............cOK00000000O:...cXMMKdooooooooooooo\nooooooooooooooxKMM0o,....:k00000KK000kc'....:xKNMWWNKOkdool:....:kK000000O00k;...lNMW0dooooooooooool\nooooooooooodoookNMNkc,....:x0KKKK00000Oxl;.....;lxkkO0OOOxl,..'ck00000000O00d'..'kWMNOdooodoooooolcc\noooooooooooollod0WMXkl;....;x00000O000000Oxoc;,'........'',;cokO00000000000x;...cXMMKxooooooooolcc::\noooooooollclooooxKWMXOxl'....cxO0O0000O0OO000OOkxdddooodxkkO0000000000O000k:...;0MMNkdooooooolc:::::\nooooolcccloooooooxXWWX0Od;....'lxO000000O00000000000000000O00000O000O000Od;...:0WMNOdoooooolcc::::cc\noolcccclooooooooookKWMNXKOc.....':dkO000O000O00O0000000000000000000OO00xc'...lKWMNOdodooolc:::cclloo\ncc:cclooooooooooooox0NMWWWXx;......,cdkO00000O0000O0000000000000000K0kl'...:OWMWXkdoooolcccccloooooo\n:clooooooooooooooooodkKWWMMWKxc'......,:oxOO000000000000OO0000000Oxl;....:kNMWN0xoooolcccllooooooooo\nlooooooooooooooooooooodkO0KNWMN0xl;.......';:codkkkkO00Okxxdolc:;'....'lONMWN0xdoooolllooooooooooooo\nooooooooooooooooooodoooooodxk0XWMWN0kdc;'..........'',,''..........,cxKWMWX0xdoooooooooooooooooooooo\nooooooooooooooooooooooooolcc:cok0KNWMMNKOkxoc;,...............';cdOXWMWNKOxooooooooooooooooooooooooo\nooooooooooooooooooooollcc:::cloooddkKNWMMWWNNXK0kxddoooooddxO0XNWMMWXKOxdooooooooooooooooooooooooooo\nooooooooodooooooollcc::::ccloooooooodxkO0KKXNNWWWMMMMMMMMMMWWWNXK0Okddoodooooooooooooooooooooooooooo\noooooooooooooolcc::::::clloodooooooooooooddddxxkkOOOkkkkkOOkkxxddooooooooooooooooooooooooooooooooooo\noooooooooollcc:::::::cloooooooooooooooooooooooooolccc:cloooooooooooooooooooooooooooooooooooooooooooo\noooooollcc::::::::cclooooooooooooooooooooooooolcc:::cloooooooooooooooooooooooooooooooooooooooooooooo\noollcc::::::::::clooooooooooooooooooooooooolcc:::ccloooooooooooooooooooooooooooooooooooooooooooooolc\ncc::::::::::::cloooooooooooooooooooooooolcc::::clooooooooooooooooooooooooooooooooooooooooooooooolc::\n:::::::::::cclooooooooooooooooooooooolcc:::::cloooooooooooooooooooooooooooollccloooooooooooooolc::::\n::::::::::clooooooooooooooooooooooolc:::::::clodooooooooooooooooooooooooolcc::looooooooodooooc::::::");
-     console.log('%cDeveloper: %c ', "color: yellow; font-size: 30px;" , 'background-image: url(https://github.com/anonimbiri/roblox-Squid-Game-hack/raw/main/screenshots/anonimbiri%20logo.png);padding:40px 300px; background-repeat:no-repeat;');
+     // console.log('%cDeveloper: %c ', "color: yellow; font-size: 30px;" , 'background-image: url(https://github.com/anonimbiri/roblox-Squid-Game-hack/raw/main/screenshots/anonimbiri%20logo.png);padding:40px 300px; background-repeat:no-repeat;');
     (async () => {
   let yenileme = await GM_getValue('yenile');
 if(yenileme === "true"){
@@ -326,7 +326,7 @@ let outorefresh = false;
 
             if (document.querySelector("#kemlimelistesi #screens")){
                 if (!document.querySelector("#__next .contribute .center")){
-              $('#__next').prepend('<div class="contribute"><div><div class="center"><span><h3>Gartic.io hack!</h3><p>İf the page does not open, refresh 1 how many times</p></span><a href="https://github.com/anonimbiri/gartic.io-hack" target="_blank">Github source code</a></div></div><div>');
+              $('#__next').prepend('<div class="contribute"><div><div class="center"><span><h3>Gartic.io hack!</h3><p>İf the page does not open, refresh 1 how many times</p></span><a href="https://github.com/bluelaned/Gartic.io-Cheats" target="_blank">Github source code</a></div></div><div>');
             }}
             if (document.querySelector(".contentPopup .avatar")){
                 var bg = $(".contentPopup .avatar").css("background-image")
@@ -479,7 +479,7 @@ $('#kemlimelistesi').css({"display": "none"});}else{ $(".pin.worldlist img").att
  $('#popUp').css({"display": "block"});
  $('#popUp').append('<div id="modmenupopUp"></div>');
  $('#modmenupopUp').append('<div class="content" style="position: absolute;"><button class="close"></button><div class="title"><h3>Mod Menu</h3></div><div class="contentPopup info"></div></div>');
-     $('#modmenupopUp .content').append('<a onclick="parent.open(\'https://github.com/anonimbiri/gartic.io-hack\');" style="cursor: pointer;position:relative;top:70px;width:290px;background-color: rgba(64, 120, 192);" class="loginGoogle"><img src="https://i.imgur.com/HVXUQfZ.png" style="position:relative;left:15px;width:25px;height:25px;"><span>'+ langlist.Github_source_code +'</span></a>');
+     $('#modmenupopUp .content').append('<a onclick="parent.open(\'https://github.com/bluelaned/Gartic.io-Cheats\');" style="cursor: pointer;position:relative;top:70px;width:290px;background-color: rgba(64, 120, 192);" class="loginGoogle"><img src="https://i.imgur.com/HVXUQfZ.png" style="position:relative;left:15px;width:25px;height:25px;"><span>'+ langlist.Github_source_code +'</span></a>');
          setTimeout(function() {
          if(!document.querySelector('#modmenupopUp .content div #afk'))
                  {
@@ -547,7 +547,7 @@ $('.content').on('click', '.ic-okeys', function() {  $('#popUp').css({"display":
  }
 
  function loadwoldlist() { // tr: burası github sayfamdan kelime listesini yüklediğimiz yer eski sürümlerde buradan yüklemiyorduk // en: this is where we loaded the wordlist from my github page we didn't load it from here in older versions
-     let listtext = "https://raw.githubusercontent.com/anonimbiri/gartic.io-hack/main/world_list/en.json";
+     let listtext = "https://raw.githubusercontent.com/bluelaned/Gartic.io-Cheats/master/world_list/en.json";
      if (lang==999){
      if(customurl){
           $.getJSON(customurl, function(data) {
@@ -556,15 +556,15 @@ $('.content').on('click', '.ic-okeys', function() {  $('#popUp').css({"display":
                 }).fail(function(jqXHR, textStatus, errorThrown) { customurl=null; sendpopup("Error",`Encountered a problem loading the word list\nerror description: ${textStatus}`, "https://i.imgur.com/JQGPXAb.gif"); console.log(`%c %cEncountered a problem loading the word list %c %c error description: ${textStatus} %c `,  "background: #910000; padding:8px 2px;", "color: whitle; background: black; padding:5px 5px;", "background: #910000; padding:8px 2px;", "color:whitle; background: red; padding:5px 5px;",  "background: #910000; padding:8px 2px;"); });}
      }else{
      if (lang==8){
-             listtext = "https://raw.githubusercontent.com/anonimbiri/gartic.io-hack/main/world_list/tr.json";
+             listtext = "https://raw.githubusercontent.com/bluelaned/Gartic.io-Cheats/master/world_list/tr.json";
          }else if (lang==23){
-             listtext = "https://raw.githubusercontent.com/anonimbiri/gartic.io-hack/main/world_list/az.json";
+             listtext = "https://raw.githubusercontent.com/bluelaned/Gartic.io-Cheats/master/world_list/az.json";
          }else if (lang==19){
-             listtext = "https://raw.githubusercontent.com/anonimbiri/gartic.io-hack/main/world_list/ar.json";
+             listtext = "https://raw.githubusercontent.com/bluelaned/Gartic.io-Cheats/master/world_list/ar.json";
          }else if (lang==77){
-             listtext = "https://raw.githubusercontent.com/anonimbiri/gartic.io-hack/main/world_list/id.json";
+             listtext = "https://raw.githubusercontent.com/bluelaned/Gartic.io-Cheats/master/world_list/id.json";
          }else{
-             listtext = "https://raw.githubusercontent.com/anonimbiri/gartic.io-hack/main/world_list/en.json";
+             listtext = "https://raw.githubusercontent.com/bluelaned/Gartic.io-Cheats/master/world_list/en.json";
          }
 
        $.getJSON(listtext, function(data) {
