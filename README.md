@@ -1,4 +1,4 @@
- # Gartic.io Cheats [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCgs8Nz3Msrl4GqX3DeOZ6tQ?style=flat-square)](https://www.youtube.com/c/blueland?sub_confirmation=1) [![Downloads](https://img.shields.io/badge/downloads-1M-brightgreen?style=flat-square)](#releases)  
+ # Gartic.io Cheats (recode) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCgs8Nz3Msrl4GqX3DeOZ6tQ?style=flat-square)](https://www.youtube.com/c/blueland?sub_confirmation=1) [![Downloads](https://img.shields.io/badge/downloads-1M-brightgreen?style=flat-square)](#releases)  
 
 
 ![LOGO](./screenshots/logo.png)
