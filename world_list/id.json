@@ -20,6 +20,7 @@
     "ok": "Ok",
     "draw_the_image":"Draw the image"
   },
+  "world_list": [
     "ABBA",
     "Abraham Lincoln",
     "abstrak",
@@ -1760,7 +1761,7 @@
     "badai pasir",
     "sandwich",
     "Sate",
-    "Babi guling"
+    "Babi guling",
     "Sinterklas",
     "satelit",
     "Saturnus",
@@ -2344,6 +2345,6 @@
     "kebun binatang",
     "Perbesar",
     "Zorro",
-    "Zum"
+    "Zuma"
   ]
 }
