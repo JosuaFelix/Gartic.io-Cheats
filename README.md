@@ -28,10 +28,10 @@ Press <kbd>CTRL</kbd>**+**<kbd>M</kbd> to open the menu.
 | Gartic.io Mod Menu| Cheat Version | Github | Greasyfork |
 |----------------------------|-------------|-----------------|-----------------|
 | 2022 | v1.0.1 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/raw/master/script/gartic.io%20mod%20menu.user.js) | [Download](https://greasyfork.org/scripts/429227-gartic-io-mod-menu) | 
-| 2021 | v0.9 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/blob/master/script/other_versions/gartic.io%20mod%20menu%20v0.9.user.js) | [Download](https://greasyfork.org/tr/scripts/429227-gartic-io-mod-menu?version=1000886) |
-| 2021 | v0.8 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/blob/master/script/other_versions/gartic.io%20mod%20menu%20v0.8.user.js) | [Download](https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=992769) |
-| 2021 | v0.7 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/blob/master/script/other_versions/gartic.io%20mod%20menu%20v0.7.user.js) | [Download]( https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=992526) |
-| 2021 | v0.6 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/blob/master/script/other_versions/gartic.io%20mod%20menu%20v0.6.user.js) | [Download](https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=975745) |
+| 2021 | v0.9 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/raw/master/script/other_versions/gartic.io%20mod%20menu%20v0.9.user.js) | [Download](https://greasyfork.org/tr/scripts/429227-gartic-io-mod-menu?version=1000886) |
+| 2021 | v0.8 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/raw/master/script/other_versions/gartic.io%20mod%20menu%20v0.8.user.js) | [Download](https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=992769) |
+| 2021 | v0.7 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/raw/master/script/other_versions/gartic.io%20mod%20menu%20v0.7.user.js) | [Download]( https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=992526) |
+| 2021 | v0.6 | [Download](	https://github.com/bluelaned/Gartic.io-Cheats/raw/master/script/other_versions/gartic.io%20mod%20menu%20v0.6.user.js) | [Download](https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=975745) |
 | 2021 | v0.5 | Download | [Download](https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=975548) |
 | 2021 | v0.4 | Download | [Download](https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=969051) |
 | 2021 | v0.3 | Download | [Download](https://greasyfork.org/scripts/429227-gartic-io-mod-menu?version=955577) |
